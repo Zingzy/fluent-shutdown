@@ -20,7 +20,7 @@ https://github.com/Zingzy/modern-shutdown/assets/90309290/f51f7636-db23-4463-adf
 
 ## Download Links
 
-[![Github Download Link](https://cdn.discordapp.com/attachments/1132642817211125801/1140604622524907631/324137.gif)](/releases/tag/v0.1)
+[![Github Download Link](https://cdn.discordapp.com/attachments/1132642817211125801/1140604622524907631/324137.gif)](https://github.com/Zingzy/modern-shutdown/releases/tag/v0.1)
 
 ## Feedback / Issues
 
