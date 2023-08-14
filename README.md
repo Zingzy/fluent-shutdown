@@ -23,6 +23,6 @@ https://github.com/Zingzy/modern-shutdown/assets/90309290/f51f7636-db23-4463-adf
 
 ## Feedback / Issues
 
-To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](/discussions) 
+To give feedback, ask a question or make a feature request, you can either use the [Github Discussions](https://github.com/Zingzy/modern-shutdown/discussions) 
 
-Bugs are logged using the github issue system. To report a bug, simply [open a new issue](/issues/new).
+Bugs are logged using the github issue system. To report a bug, simply [open a new issue](https://github.com/Zingzy/modern-shutdown/issues/new).
