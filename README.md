@@ -1,4 +1,4 @@
-# modern-shutdown
+# Modern Shutdown
 A modern Shutdown dialog box for Windows 11
 **Made for windows 11 only**
 
