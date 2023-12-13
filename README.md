@@ -1,5 +1,5 @@
-# Modern Shutdown
-A modern Shutdown dialog box for Windows 11
+# Fluent Shutdown
+A fluent Shutdown dialog box for Windows 11
 
 **Made for windows 11 only**
 
